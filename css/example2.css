@@ -1,0 +1,36 @@
+body{
+	font-family: 微软雅黑，宋体；
+	font-size:12px;
+	color: #000000;
+	background-color:#f7eed6;
+}
+.header{
+	height: 100px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	background-image: url("../images/header.jpg");
+	background-repeat: repeat;
+	z-index: 50;
+}
+.wrapper{
+	margin-top: 157px; 
+}
+.memory{
+	height: 347px;
+	background-image: url("../images/bg.jpg");
+	background-repeat: no-repeat;
+}
+.daoyan{
+	line-height: 1.6em;
+}
+li{
+	display: inline;
+	float: left;
+	padding: 5px;
+}
+.nav p{
+	display: block;
+	text-align: left;
+	margin-left:45px;
+}
